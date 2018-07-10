@@ -4958,6 +4958,11 @@
       "category": "app-routing",
       "description": ":oncoming_bus: Crossroad is an URL router focused on handling Custom URL Schemes.",
       "homepage": "https://github.com/giginet/Crossroad"
+    }, {
+      "title": "FramesIos",
+      "category": "payment",
+      "description": "Payment Form UI and Utilities in Swift.",
+      "homepage": "https://github.com/checkout/frames-ios"
     }
   ]
 }
